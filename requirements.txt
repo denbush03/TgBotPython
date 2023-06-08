@@ -1,0 +1,7 @@
+Библиотеки необходимые для работы проекта:
+datetime
+aiogram
+peewee
+requests
+time
+json
